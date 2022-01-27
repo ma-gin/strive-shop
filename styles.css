@@ -1,0 +1,14 @@
+body{
+    background-color: #f8f9fa;
+}.card p{
+    margin-bottom: 4px;
+}
+.styled{
+    background-color: hsla(84, 100%, 76%, 0.363);
+}
+.small{
+    font-size: small;
+}
+.card{
+    max-height: fit-content;
+}
